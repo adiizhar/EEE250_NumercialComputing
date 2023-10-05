@@ -1,3 +1,3 @@
-# EEE250_NumercialComputing
+# EEE250_NumericalComputing
 
 This repositary is used for EEE250 Numerical Computing
